@@ -1,0 +1,36 @@
+.card-header {
+    background-color: rgb(223, 228, 237)
+}
+
+.card-header {
+    line-height: 22px;
+    font-size: 12px;
+    font-family: MuseoSans-700;
+    background: #DFE4ED;
+    border-radius: 0px !important;
+    padding: 0px;
+    padding-left: 15px;
+    font-weight: 700;
+}
+
+.card {
+    border-radius: 0px;
+}
+
+.fs-11 {
+    font-size: 11px;;
+}
+
+.fs-14 {
+    font-size: 14px;;
+}
+
+.accordion-button::after{
+    margin-left: 0px;
+    font-size: 14px;
+}
+
+.accordion-button{
+    flex-direction: column;
+    border:rgba(0, 0, 0, 0.175) 1px solid ;
+}
