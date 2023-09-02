@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ShowDetails = () => {
+const ShowDetailsButton = () => {
   return (
     <>
      <div className="accordion accordion-flush h-100" id="accordionFlushExample">
@@ -23,4 +23,4 @@ const ShowDetails = () => {
   )
 }
 
-export default ShowDetails
+export default ShowDetailsButton
